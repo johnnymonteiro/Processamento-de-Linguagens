@@ -1,0 +1,212 @@
+%{
+    #include <string.h>
+    char nameEspecial[9] = "{%name%}\0";
+    char helper[2] = "/\0";
+    struct file{
+        char * name;
+        char * path;
+        struct file *next;
+    };
+    struct file *file_list = NULL;
+    int LOOKUP = -1;
+    char OPTION[20];
+    char NAME[50];
+    char EMAIL[50];
+    char AUTHOR[50];
+    int opt = 0;
+    int oldlvl = 0;
+    int newlvl = 0;
+    char dirName[50];
+    char pathName[100];
+    char fileName[50];
+    FILE * aux;
+    char auxfile[150];
+    int validate(char*);
+    int addFile(char*,char*);
+    int findFile(char*);
+    int getFileName(char*);
+    void printFileList();
+%}
+
+%s META TREE FILEMODE
+
+%%
+^===" "*                    {   
+                                if(LOOKUP == 3){
+                                    fclose(aux);
+                                }
+                                LOOKUP = 0;
+                                BEGIN META;}
+<META>[ \t]+                     {}
+<META>e-?mail:           {LOOKUP = 1;}
+<META>author:            {LOOKUP = 2;}                         
+<META>[a-zA-z@.{%}]+[ ]*[a-zA-z@.]* {
+                    if(LOOKUP == 0){
+                        sprintf(OPTION,"%s",yytext);
+                        opt = validate(OPTION);
+                        switch(opt){
+                            case 1:
+                                LOOKUP = -1;
+                                break;
+                            case 2:
+                                LOOKUP = -1;
+                                BEGIN TREE; 
+                                break;
+                            case 3:
+                                getFileName(OPTION);
+                                findFile(fileName);
+                                strcpy(auxfile,pathName);
+                                strcat(auxfile,helper);
+                                strcat(auxfile,fileName);
+                                
+                                aux = fopen(auxfile, "w");
+                                yyout = aux;
+                                LOOKUP = 3;
+                                BEGIN FILEMODE;
+                                break;
+                            default:
+                                printf("why are you here?\n");
+                                break;       }
+                    }else if(LOOKUP == 1){
+                        sprintf(EMAIL,"%s",yytext);
+                        LOOKUP = -1;
+                    }else if(LOOKUP == 2){
+                        sprintf(AUTHOR,"%s",yytext);
+                        LOOKUP = -1;
+                        BEGIN INITIAL;
+                    }else{
+                        
+                    }}
+<TREE>[ \t]*        {}                    
+<TREE>[\-]*        {newlvl = yyleng;}
+<TREE>[a-zA-z@.{%}]+/\/      {  if(strcmp(nameEspecial,yytext)== 0){
+                                    strcpy(dirName,NAME);
+                                }else{
+                                    strcpy(dirName,yytext);}
+                                if(newlvl == 0){ // root option
+                                    mkdir(dirName, 0777);
+                                    if(chdir(dirName) != 0){
+                                        printf("didn't chage\n");
+                                    }
+                                    getcwd(pathName,100);
+                                }else{
+                                    while(!(newlvl == oldlvl+1)){
+                                        chdir("..");
+                                        oldlvl--;
+                                    }
+                                    mkdir(dirName, 0777);
+                                    if(chdir(dirName) != 0){
+                                        printf("did'nt chage\n");
+                                    }
+                                    getcwd(pathName,100);
+                                    
+                                }
+                                oldlvl = newlvl;
+                                }
+<TREE>[a-zA-Z@{%}.]+     {  
+                            while(!(newlvl == oldlvl+1)){
+                                chdir("..");
+                                oldlvl--;
+                            }if(getFileName(yytext)){
+                                printf("ERROR, COULD'N MATCH THE FILENAME\n");
+                            }
+                            // add file to the structure and create the file.
+                            getcwd(pathName,100);
+                            if(!addFile(fileName,pathName)){
+                                printf("ERROR, FILE NOT ADDED TO THE STRUCTURE");
+                            }
+                            aux = fopen(fileName, "w");
+                            fclose(aux);
+                        }
+<FILEMODE>"{%author%}"  {fprintf(yyout,"%s",AUTHOR);}
+<FILEMODE>"{%name%}"    {fprintf(yyout,"%s",NAME);}
+<FILEMODE>"{%email%}"   {fprintf(yyout,"%s",EMAIL);}
+<FILEMODE>.|\n          {ECHO;}
+.|\n                        {}
+
+%%
+int yywrap(){ 
+    return(1); 
+}
+
+int validate(char * option){
+    
+    if(!strncmp(option,"meta",strlen("meta"))){
+        return 1; // META MODE
+    }else if(!strncmp(option,"tree", strlen("tree"))){
+        return 2; // TREE MODE
+    }else {
+        return 3; // FILE MODE
+    }
+}
+
+int getFileName(char * text){
+    
+    if(strncmp(text,nameEspecial, 8)){ //don't contain {%name%}
+        strcpy(fileName,text);
+        return 0;
+    }else{ // files with {%name%}
+        strcpy(fileName,NAME);
+        strcat(fileName,text+8);
+        return 0;
+    }
+    return 1;
+}
+
+int addFile(char *name,char *path){
+    struct file *newfile;
+    
+    newfile = (struct file *) malloc(sizeof(struct file));
+    newfile->next = file_list;
+    newfile->name = (char *) malloc(strlen(name)+1);
+    strcpy(newfile->name,name);
+    newfile->path = (char *) malloc(strlen(path)+1);
+    strcpy(newfile->path,path);
+    file_list = newfile;
+
+    return 1;
+}
+
+
+void printFileList(){
+    struct file *fp = file_list;
+    for(;fp;fp = fp->next){
+        printf("f:%s\n", fp->name);
+        }
+}
+int findFile(char * fileName){
+    struct file *fp = file_list;
+    for(;fp;fp = fp->next){
+        if(strcmp(fp->name, fileName)==0){
+            strcpy(pathName,fp->path);
+            return 0;
+        }
+    }
+    return 1;
+}
+
+
+int main(int argc, char **argv){ 
+    
+    int i = 0;
+    FILE *file;
+    
+
+    if(argc < 3){
+        printf("you should pass for the program a name and a template in this order\n");
+    }
+    else{
+        sprintf(NAME,"%s",argv[1]);
+        file = fopen(argv[2], "r");
+        if(!file){
+            fprintf(stderr,"could not open %s\n",argv[1]);
+            exit(1);
+        }
+        yyin = file;
+        yylex(); 
+        printf("DONE\n");
+        
+    }
+    
+    return 0;
+}

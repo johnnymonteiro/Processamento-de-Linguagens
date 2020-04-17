@@ -1,0 +1,5 @@
+#!/bin/bash
+
+flex "$1"
+gcc lex.yy.c -lfl -o mkfromtemplate
+./mkfromtemplate "$3" "$2"
