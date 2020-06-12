@@ -1,0 +1,138 @@
+
+#==>ORIG English-Português -Inglês - Português.pdf ()<==
+
+ 
+English-Portuguese
+BUSINESS DICTIONARY
+
+DICIONÁRIO DE TERMOS
+ADMINISTRATIVOS E
+COMERCIAIS
+Inglês-Português
+
+James Coveney 
+and 
+Julian Amey
+  
+© Longman Group Ltd 1982
+
+_sec+NA:introd_ Introduction
+This dictionary is an attempt to fill a gap that clearly
+exists: the rapid growth of the management sciences in
+the last two decades has resulted in the coining of many
+new terms to describe new techniques and concepts which
+are not found in English-Portuguese dictionaries.
+
+   The terms included have been drawn from the main
+areas of management interest: business policy and 
+corporate planning, computer techniques, finance, marketing,
+operational research, personnel management and, to a
+lesser degree, production. We have tried to keep a
+proper balance by not over-emphasising any one area.
+
+   In selecting terms for inclusion it was decided to
+give priority to the broader and more general concepts
+over the more technical and specialised terms in 
+management. We also decided to restrict the size of the 
+dictionary, so that it could be slipped into a 
+businessman's briefcase; since the scope of the subject is
+very wide, we have selected only those terms in most
+frequent use. We are conscious of our fallibility in
+selecting such terms and would be grateful if users
+could inform us of any obvious omissions.
+
+   No doubt some users of this dictionary, both in 
+English-speaking and Portuguese-speaking countries, will
+criticise or disagree with the translations we have
+given; we should be pleased to receive proposed 
+alternatives for inclusion in a revised edition.
+
+   Our thanks for their helpful advice and suggestions
+during the preparation of this dictionary are especially
+due to Professor Terry Roberts, latterly of C.U.P. (Rio
+de Janeiro), Prof.ª Eloísa Barbosa (also of C . U . P . , Rio
+de Janeiro), Mr H. Legge-Bourke and Mrs Victoria Amey.
+The compilation of the dictionary was based on the
+Glossary of French and English Management Terms (James
+Coveney and Sheila J. Moore), work on which was made
+possible by a generous grant from the McKinsey 
+Foundation for Management Research.
+
+James Coveney
+Julian Amey
+
+_sec+NA:introd_ Introdução
+Este dicionário constitui uma tentativa de preencher um 
+vazio que sem dúvida existe: o rápido crescimento das 
+ciências da administração nas duas últimas décadas resultou na
+formação de muitos termos novos para descrever novas 
+técnicas e conceitos que não se encontram nos dicionários 
+inglês-português.
+
+   Os termos aqui incluídos foram colhidos nas principais
+áreas de interesse da administração: política e planejamento
+empresarial, técnica de computação, finanças, marketing,
+pesquisa operacional, administração de pessoal e, em grau
+menor, produção. Procuramos manter o equilíbrio 
+adequado, evitando dar ênfase demasiada a qualquer dessas áreas.
+
+   Ao selecionar os termos a serem incluídos no dicionário,
+decidimos dar prioridade aos conceitos mais amplos e 
+gerais, ao invés de aos termos mais técnicos e especializados.
+Decidimos também restringir o tamanho físico do 
+dicionário, de forma que ele possa ser colocado facilmente ao lado
+de outros objetos de trabalho numa maleta de executivo;
+uma vez que as áreas cobertas são bem amplas, escolhemos
+apenas os termos de uso mais freqüente. Estamos 
+conscientes da possibilidade de erro ao selecionar esses termos e 
+ficaríamos gratos se os usuários do dicionário nos alertassem
+quanto a alguma omissão importante.
+
+   Sem dúvida, alguns usuários do dicionário, tanto em 
+países de língua inglesa como de portuguesa, criticarão ou 
+discordarão das traduções que demos; teremos prazer em 
+receber sugestões para alternativas a incluir numa futura edição
+revista.
+
+   Agradecemos especialmente pelos conselhos e indicações
+úteis, durante a preparação do dicionário, ao Professor
+Terry Roberts, trabalhando ultimamente no C.U.P. (Rio de
+Janeiro), à Prof.ª Eloísa Barbosa (também do C . U . P . , Rio
+de Janeiro), ao Sr. H. Legge-Bourke e à Sra. Victoria
+Amey. A compilação do dicionário baseou-se no Glossary
+of French and English Management Terms (James Coveney
+e Sheila J. Moore), trabalho esse que pôde ser realizado gra-
+ças a uma generosa subvenção da McKinsey Foundation for
+Management Research.
+
+
+James Coveney
+Julian Amey 
+INGLÊS                                                  PORTUGUÊS
+
+
+__BEGIN__
+
+A
+ADP (automatic data processing)   processamento (m) automático de
+                                   dados
+absenteeism                       absenteísmo (m)
+absorption costing                custeio (f) de absorção
+abandonment:
+ product -                        retirada (f) de um produto
+above par                         com ágio; acima da paridade
+acceleration clause               cláusula (f) de aceleração
+acceptance:                       aceitação (f)
+ brand -                          aceitação (f) de uma marca
+ consumer -                       aceitação (f) por parte do consumidor
+access:
+ multi -                          acesso (m) múltiplo
+ random -                         acesso (m) casual
+account:
+ bank -                           conta (f) bancária
+ joint -                          conta (f) conjunta
+accountability                    responsabilidade (f) sujeita a
+                                   prestação de contas
+accountant:
+
+chief                             chefe (m) de contabilidade

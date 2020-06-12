@@ -1,0 +1,3721 @@
+Seção: A
+
+EN ADP (automatic data processing)
+PT processamento (m) automático de
+
+--
+Erro sintático na linha 119
+--
+
+EN absenteeism
+PT absenteísmo (m)
+
+EN absorption costing
+PT custeio (f) de absorção
+
+--
+Erro sintático na linha 123
+--
+
+EN above par
+PT com ágio
+PT acima da paridade
+
+EN acceleration clause
+PT cláusula (f) de aceleração
+
+EN acceptance:
+PT aceitação (f)
+
+--
+Erro sintático na linha 127
+--
+
+EN accountability
+PT responsabilidade (f) sujeita a
+
+EN chief
+PT chefe (m) de contabilidade
+
+--
+Erro sintático na linha 141
+--
+
+EN accretion
+PT aumento (m)
+PT acréscimo (m)
+
+EN accrual
+PT acumulação (f)
+
+EN acid test ratio
+PT índice (m) de liquidez geral
+
+EN acquisition:
+PT aquisição (f)
+
+--
+Erro sintático na linha 157
+--
+
+EN action plan
+PT plano (m) de ação
+
+EN activate (to -)
+PT ativar
+
+EN activity:
+PT ramo (m) de negócios
+
+--
+Erro sintático na linha 162
+--
+
+EN adaptive control
+PT controle (m) adaptativo
+
+EN added:
+PT value -
+
+--
+Erro sintático na linha 170
+--
+
+EN administration:
+PT administração (f)
+
+EN advertisement
+PT anúncio (m)
+
+EN advertiser
+PT anunciante (m)
+
+--
+Erro sintático na linha 188
+--
+
+EN advisory services
+PT serviços (mpl) de assessoramento
+
+EN affidavit
+PT depoimento (m) juramentado
+
+EN affiliate company
+PT companhia (f) filiada
+
+EN after sales service
+PT serviço (m) pós-venda
+
+--
+Erro sintático na linha 207
+--
+
+EN algorithm
+PT algoritmo (m)
+
+EN all risks
+PT todos os riscos (mpl)
+PT cobertura (f) total
+
+--
+Erro sintático na linha 217
+--
+
+EN amalgamation
+PT fusão (f)
+PT união (f)
+
+--
+Erro sintático na linha 225
+--
+
+EN analytical training
+PT treinamento (m) analítico
+
+EN ancillary operations
+PT operações (fpl) periféricas
+
+EN anticipatory response
+PT resposta (f) antecipada
+
+--
+Erro sintático na linha 266
+--
+
+EN apportionment
+PT distribuição (f)
+
+--
+Erro sintático na linha 270
+--
+
+EN approach:
+PT systems -
+
+EN aptitude test
+PT teste (m) de aptidão
+
+EN arbitrage
+PT arbitragem (f)
+
+EN arbitration
+PT arbitragem (f)
+
+--
+Erro sintático na linha 290
+--
+
+EN assembly line
+PT linha (f) de montagem
+
+EN assessment:
+PT avaliação (f)
+
+--
+Erro sintático na linha 297
+--
+
+EN associate company
+PT companhia (f) associada
+
+--
+Erro sintático na linha 326
+--
+
+EN at sight
+PT à vista
+
+--
+Erro sintático na linha 329
+--
+
+EN audit (to -)
+PT examinar (livros contábeis)
+PT realizar
+
+--
+Erro sintático na linha 332
+--
+
+EN audit:
+PT auditoria (f)
+
+EN auditor
+PT auditor (m)
+
+EN authorised capital
+PT capital (m) autorizado
+
+--
+Erro sintático na linha 344
+--
+
+EN automation
+PT automação (f)
+
+EN average cost
+PT custo (m) médio
+
+--
+Erro sintático na linha 353
+--
+
+EN backdate to
+PT antecipar
+PT pré-datar
+
+EN bad debt
+PT dívida (f) duvidosa
+PT dívida (f)
+
+--
+Erro sintático na linha 358
+--
+
+EN balance sheet auditing
+PT auditoria (f) de balanço
+
+--
+Erro sintático na linha 367
+--
+
+EN bankers'draft
+PT saque (m) bancário
+
+EN bargain
+PT permuta (f)
+PT barganha (f)
+PT pechincha (f)
+
+--
+Erro sintático na linha 378
+--
+
+EN bankruptcy
+PT falência (/)
+PT quebra (f) financeira
+PT bancarrota (f)
+
+--
+Erro sintático na linha 384
+--
+
+EN economic-quantity
+PT tamanho (m) do lote econômico
+
+--
+Erro sintático na linha 393
+--
+
+EN behavioural science
+PT ciência (f) do comportamento
+
+--
+Erro sintático na linha 399
+--
+
+EN benchmark
+PT padrão (m)
+
+--
+Erro sintático na linha 404
+--
+
+EN bidder
+PT licitante (m)
+PT proponente
+
+--
+Erro sintático na linha 413
+--
+
+EN billing
+PT faturamento
+
+--
+Erro sintático na linha 419
+--
+
+EN blocked currency
+PT moeda (f) bloqueada por controle
+
+EN bond:
+PT bônus (m)
+PT obrigação (f)
+PT debênture
+
+--
+Erro sintático na linha 433
+--
+
+EN bonded warehouse
+PT entreposto (m) aduaneiro
+
+--
+Erro sintático na linha 438
+--
+
+EN book value
+PT valor (m) contábil
+
+EN boom
+PT alta(/)
+
+EN booster training
+PT reciclagem (m)
+
+EN borrowing facility
+PT linha (f) de crédito
+
+EN bottom line
+PT lucro (m) final
+
+EN bounced cheque
+PT cheque (m) sem fundos
+
+EN bouncing cheque
+PT cheque (m) sem fundos
+
+EN branch office
+PT filial (f)
+
+EN brand:
+PT marca (f)
+
+--
+Erro sintático na linha 452
+--
+
+EN breach of contract
+PT inadimplemento (m)
+PT inadimplência
+
+--
+Erro sintático na linha 460
+--
+
+EN break-through
+PT avanço (m) importante
+PT brecha (f)
+
+EN break-up value
+PT valor (m) de liquidação forçada
+
+EN briefing
+PT reunião (f) para dar informações
+
+--
+Erro sintático na linha 472
+--
+
+EN broker:
+PT corretor (m)
+
+EN budget:
+PT orçamento (m)
+
+EN budgetary control
+PT controle (m) orçamentário
+
+EN budgeting:
+PT contabilidade (f) orçamentária
+
+--
+Erro sintático na linha 490
+--
+
+EN buffer:
+PT memória (f) auxiliar
+PT buffer (m)
+
+--
+Erro sintático na linha 501
+--
+
+EN built-in-obsolescence
+PT obsolescência (f) planejada
+
+EN bull:
+PT especulador (m) que espera
+
+--
+Erro sintático na linha 505
+--
+
+EN burning ratio
+PT taxa (f) de sinistros de incêncio
+
+--
+Erro sintático na linha 509
+--
+
+EN buyers's market
+PT mercado (m) do comprador
+
+EN buying behaviour
+PT comportamento (m) de compra
+
+EN by-product
+PT derivado (m)
+PT subproduto (m)
+
+------------------
+Seção: c
+
+--
+Erro sintático na linha 530
+--
+
+EN CBA (cost-benefit analysis)
+PT análise (f) de custos e benefícios
+
+--
+Erro sintático na linha 532
+--
+
+EN COD (cash on delivery)
+PT pagamento (m) contra entrega
+
+--
+Erro sintático na linha 538
+--
+
+EN CPA (critical path analysis)
+PT análise (m) do caminho crítico
+
+EN CPM (critical path method)
+PT método (m) do caminho crítico
+
+EN CWM (clerical work
+PT medição (f) de trabalho
+
+--
+Erro sintático na linha 542
+--
+
+EN call loan
+PT empréstimo (m) sujeito a rescisão
+
+EN canvass (to -)
+PT solicitar
+PT buscar opiniões
+
+--
+Erro sintático na linha 551
+--
+
+EN venture -
+PT capital (m) de risco
+
+EN capitalisation
+PT capitalização (f)
+
+EN capitalise (to)
+PT capitalizar
+
+--
+Erro sintático na linha 594
+--
+
+EN career planning
+PT planejamento (m) de desenvolvimento
+
+EN cargo
+PT carga (f)
+
+EN camet
+PT camê (m)
+
+EN cartel
+PT cartel (m)
+
+EN case study
+PT estudo (m) de caso
+
+--
+Erro sintático na linha 603
+--
+
+EN ceiling price
+PT preço-teto (m)
+
+EN centralisation
+PT centralização (f)
+
+--
+Erro sintático na linha 621
+--
+
+EN profit - accounting
+PT contabilidade (f) por centros de lucro
+
+--
+Erro sintático na linha 626
+--
+
+EN chairman:
+PT presidente (m)
+
+EN chamber of commerce
+PT câmara (f) de comércio
+
+--
+Erro sintático na linha 640
+--
+
+EN charm price
+PT chamariz (m)
+
+--
+Erro sintático na linha 648
+--
+
+EN charter (to)
+PT fretar
+
+EN chartered ship
+PT navio (m) fretado
+
+EN chattel
+PT bem (m) móvel
+
+EN cheque
+PT cheque(m)
+
+--
+Erro sintático na linha 661
+--
+
+EN circulating capital
+PT capital (m) circulante
+
+EN clerical work measurement
+PT medição (f) de trabalho administrativo
+
+EN close corporation
+PT sociedade (f) anônima de capital
+
+EN closed loop
+PT ciclo (m) fechado
+
+EN closed shop
+PT fábrica (f) com operários sindicaliza-
+
+--
+Erro sintático na linha 678
+--
+
+EN closing down cost
+PT custo (m) de liquidação
+
+EN collateral loan
+PT empréstimo (m) sob garantia
+
+EN collective bargaining
+PT negociação (f) coletiva
+
+EN collusion
+PT colusão (f)
+PT conivência (f)
+
+--
+Erro sintático na linha 684
+--
+
+EN commission
+PT comissão (f)
+
+--
+Erro sintático na linha 688
+--
+
+EN commodity
+PT bem (m)
+PT produto (m)
+PT mercadoria (f)
+
+EN common language
+PT linguagem (f) comum
+
+--
+Erro sintático na linha 692
+--
+
+EN competitor analysis
+PT análise (f) da concorrência
+
+--
+Erro sintático na linha 734
+--
+
+EN comptroller
+PT superintendente (m) fiscal (m)
+PT inspetor (m)
+PT controlador (m)
+
+EN computer:
+PT computador (m)
+
+--
+Erro sintático na linha 738
+--
+
+EN computerise (to -)
+PT computadorizar
+
+EN computerised information systen
+PT sistema (m) computadorizado de
+
+--
+Erro sintático na linha 753
+--
+
+EN conciliation
+PT conciliação (f)
+
+EN conditions of employment
+PT termos (mpl) de emprego
+
+EN conference line vessel
+PT embarcação pertencente a uma
+
+--
+Erro sintático na linha 759
+--
+
+EN conglomerate
+PT conglomerado (m)
+
+--
+Erro sintático na linha 763
+--
+
+EN consignment
+PT consignação (f)
+
+EN consolidated accounts
+PT contas (fpl) consolidadas
+
+EN consolidation
+PT consolidação
+
+EN consortium
+PT consórcio
+
+--
+Erro sintático na linha 769
+--
+
+EN consultancy
+PT consultoria (m)
+
+EN consultant:
+PT consultor (m)
+
+--
+Erro sintático na linha 772
+--
+
+EN consumers'panel
+PT quadro (m) de consumidores
+
+EN consumption
+PT consumo (m)
+
+EN containerisation
+PT sistema (m) de embalagem em
+
+--
+Erro sintático na linha 786
+--
+
+EN contango
+PT juros (mpl) por transferência
+
+--
+Erro sintático na linha 789
+--
+
+EN contingency reserve
+PT reserva (f) para contingências
+
+--
+Erro sintático na linha 792
+--
+
+EN contraction of authority
+PT diminuição (f) de autoridade
+
+EN contribution analysis
+PT análise (m) de contribuições
+
+EN control:
+PT controle (m)
+
+--
+Erro sintático na linha 802
+--
+
+EN controller
+PT controlador (m)
+
+EN convertible currency
+PT moeda (f) conversível
+
+EN copyright
+PT direitos (mpl) reservados
+PT direito
+
+--
+Erro sintático na linha 832
+--
+
+EN country of origin
+PT país (m) de origem
+
+EN cover ratio
+PT índice (m) de cobertura
+
+--
+Erro sintático na linha 902
+--
+
+EN crosslicensing
+PT concessão (f) recíproca de licenças
+
+EN currency:
+PT moeda (m) corrente
+
+--
+Erro sintático na linha 925
+--
+
+--
+Erro sintático na linha 938
+--
+
+EN customs:
+PT desembaraço (m) aduaneiro
+
+EN cut prices (to -)
+PT reduzir preços (mpl)
+
+--
+Erro sintático na linha 953
+--
+
+EN DCF (discounted cash flow)
+PT relação (f) entre receita e
+
+EN debentures
+PT debentures (fpl)
+PT obrigações (fpl)
+
+EN debit balance
+PT saldo (m) devedor
+
+EN debt:
+PT dívida (f)
+PT débito (m)
+
+--
+Erro sintático na linha 979
+--
+
+EN debtors
+PT devedores (mpl)
+
+EN debug (to -)
+PT corrigir
+
+EN decentralisation
+PT descentralização (f)
+
+--
+Erro sintático na linha 985
+--
+
+EN deed
+PT escritura (f)
+
+EN default
+PT falta (f)
+PT falha (f)
+PT negligência (f)
+
+--
+Erro sintático na linha 995
+--
+
+EN defensive strategy
+PT estratégia (f) defensiva
+
+EN deferred dividend
+PT dividendo (m) de pagamento futuro
+
+EN deficit
+PT déficit (m)
+
+EN defray (to -)
+PT custear
+
+EN delegation
+PT delegação (f)
+
+--
+Erro sintático na linha 1002
+--
+
+EN demurrage
+PT compensação (f) pela demora de
+
+EN departmental planning
+PT planejamento (m) departamental
+
+EN departmentalisation
+PT organização (f) por setores
+
+EN deployment
+PT desdobramento (m)
+
+EN deposit
+PT depósito (m)
+PT sinal (m)
+
+EN deposit (to -)
+PT depositar
+
+EN depreciable
+PT depreciável
+
+EN depreciation
+PT depreciação (f)
+PT desvalorização (f)
+
+EN depreciation allowance
+PT reserva (f) para depreciação
+PT abatimento (m) de depreciação
+
+EN depression
+PT depressão (f)
+
+--
+Erro sintático na linha 1029
+--
+
+EN desk research
+PT investigação (f) de gabinete
+
+--
+Erro sintático na linha 1045
+--
+
+EN devaluation
+PT desvalorização (f)
+
+EN devalue (to-)
+PT desvalorizar
+
+--
+Erro sintático na linha 1049
+--
+
+EN deviate from
+PT afastar-se de
+
+--
+Erro sintático na linha 1060
+--
+
+EN diagnostic routine
+PT rotina (f) de diagnóstico
+
+--
+Erro sintático na linha 1063
+--
+
+EN digital computer
+PT computador (m) digital
+
+--
+Erro sintático na linha 1071
+--
+
+EN director:
+PT diretor (m)
+
+EN disbourse (to -)
+PT desembolsar
+
+EN discard (to)
+PT excluir
+
+EN discharge
+PT descarregamento (m)
+PT quitação (f)
+
+EN discount:
+PT desconto (m)
+
+--
+Erro sintático na linha 1100
+--
+
+EN discounted cash flow
+PT relação (f) entre receita e
+
+EN diseconomy of scale -
+PT deseconomia (f) de escala
+
+EN disembark (to -)
+PT desembarcar
+
+EN dishonor (to -)
+PT deixar de pagar uma letra
+
+EN dishonored bill
+PT letra (f) não paga
+
+EN disincentive
+PT desincentivo (m)
+
+EN dismissal
+PT demissão (f)
+PT exoneração (f)
+
+EN dispatching
+PT despacho (m)
+PT expedição (f)
+
+--
+Erro sintático na linha 1113
+--
+
+EN dissolution
+PT dissolução (f)
+
+--
+Erro sintático na linha 1118
+--
+
+EN distributor
+PT distribuidor (m)
+PT atacadista (m)
+
+EN diversification:
+PT diversificação (f)
+
+--
+Erro sintático na linha 1129
+--
+
+EN diversify (to -)
+PT diversificar
+
+EN divestment
+PT redução (f) do ativo
+PT desinvestimento (m)
+
+--
+Erro sintático na linha 1134
+--
+
+EN divisional management
+PT controle (m) por setores
+
+EN dock
+PT doca (f)
+
+EN documents available
+PT documentos (mpl) disponíveis
+
+EN dole
+PT auxílio desemprego (m)
+
+EN door to door
+PT de porta (f) em porta (f)
+PT porta (f)
+
+--
+Erro sintático na linha 1148
+--
+
+EN doubtful debts
+PT dívidas (fpl) duvidosas
+
+EN down payment
+PT sinal (m)
+PT entrada (f)
+
+EN down the line
+PT subordinados (mpl)
+
+EN down time
+PT tempo (m) ocioso
+
+EN draft:
+PT saque (m)
+PT letra (f) de câmbio
+PT rascunho (m)
+
+--
+Erro sintático na linha 1159
+--
+
+EN due date
+PT data (f) de vencimento
+
+EN dumping
+PT venda (f) a preço abaixo do normal
+
+EN duplicate
+PT duplicata (f)
+
+--
+Erro sintático na linha 1168
+--
+
+EN duty-free
+PT isento de impostos
+
+--
+Erro sintático na linha 1172
+--
+
+EN EDP (electronic data processing)
+PT processamento (m) eletrônico de dados
+
+EN EEC (European Economic Com-
+PT Mercado (m) Comum Europeu (MCE)
+
+--
+Erro sintático na linha 1188
+--
+
+EN EFTA (European Free Trade
+PT Associação (f) Européia de Livre
+
+EN Association)
+PT Comércio
+
+EN earn (to -)
+PT ganhar
+
+--
+Erro sintático na linha 1191
+--
+
+EN effects
+PT bens (mpl) móveis
+PT títulos (mpl)
+
+EN efficiency
+PT eficiência (f)
+
+--
+Erro sintático na linha 1237
+--
+
+EN elasticity
+PT elasticidade (f)
+
+EN eliminate (to -)
+PT eliminar
+
+EN embargo
+PT embargo (m)
+PT interdição (f)
+
+EN embark (to -)
+PT embarcar
+
+EN embezzlement
+PT desfalque (m)
+PT extravio (m)
+
+--
+Erro sintático na linha 1244
+--
+
+EN employer
+PT empregador (m)
+PT patrão (m)
+
+EN enclosure
+PT inclusão (f)
+PT anexo (m)
+
+EN encouraging market
+PT mercado (m) encorajador
+
+EN endorsement
+PT endosso (m)
+
+--
+Erro sintático na linha 1258
+--
+
+EN enterprise
+PT empreendimento (m)
+
+EN entrepreneurial spirit
+PT espírito (m) empreendedor
+
+EN entry
+PT lançamento (m)
+
+EN environment
+PT meio ambiente (m)
+
+--
+Erro sintático na linha 1276
+--
+
+EN ergonometrics
+PT medição (f) do trabalho
+
+EN ergonomics
+PT ergonomia (f)
+PT relação (f) do homem
+
+--
+Erro sintático na linha 1287
+--
+
+EN escalator clause
+PT cláusula (f) de reajuste
+
+--
+Erro sintático na linha 1292
+--
+
+EN estate
+PT bem imóvel (m)
+PT espólio (m)
+
+--
+Erro sintático na linha 1295
+--
+
+EN estimated time of arrival
+PT data/hora (f) provável de chegada
+
+EN estimated time of departure
+PT data/hora (f) provável de partida
+
+EN estimating systems costs
+PT avaliação (f) de custos de
+
+--
+Erro sintático na linha 1299
+--
+
+EN eurobond
+PT eurobônus (m)
+
+EN eurodollar
+PT eurodólar (m)
+
+EN European Economic Community
+PT Mercado (m) Comum Europeu
+
+--
+Erro sintático na linha 1303
+--
+
+EN ex - dock
+PT posto na doca (f)
+
+EN ex - factory
+PT posto na fábrica (f)
+
+EN ex - warehouse
+PT posto no depósito (m)
+
+--
+Erro sintático na linha 1314
+--
+
+EN excise
+PT imposto (m)
+PT taxa (f)
+PT I
+
+--
+Erro sintático na linha 1327
+--
+
+EN execute an order (to -)
+PT atender um pedido
+
+--
+Erro sintático na linha 1330
+--
+
+EN exempt
+PT isento
+PT livre
+
+EN expand (to)
+PT ampliar
+
+--
+Erro sintático na linha 1345
+--
+
+EN expedite (to)
+PT expedir
+
+--
+Erro sintático na linha 1352
+--
+
+EN expire (to)
+PT vencer
+
+EN expiry date
+PT data (f) de vencimento
+
+EN exploitation
+PT exploração (f)
+
+--
+Erro sintático na linha 1366
+--
+
+EN expropriation
+PT expropriação (f)
+
+EN extension services
+PT serviços (mpl) logísticos
+
+--
+Erro sintático na linha 1375
+--
+
+EN FAS (free alongside ship)
+PT despesas (fpl) pagas até a doca
+
+EN FOB (free on board)
+PT FOB
+
+--
+Erro sintático na linha 1384
+--
+
+EN factoring
+PT descontó (m) de duplicatas
+
+EN factory overheads
+PT despesas (f) gerais de fábrica
+
+EN family tree
+PT árvore (f) genealógica
+
+EN feasibility study
+PT estudo (m) de viabilidade
+
+EN featherbedding
+PT contratação (f) de número excessivo
+
+--
+Erro sintático na linha 1393
+--
+
+EN feedback
+PT dados (mpl) do mercado
+
+EN fiduciary
+PT administrador (m) de um espólio
+
+--
+Erro sintático na linha 1397
+--
+
+EN financing:
+PT self-
+
+EN fine
+PT multa (f)
+
+EN firm
+PT firma (f)
+PT companhia (f)
+PT empresa (f)
+
+EN first-line manager
+PT gerente (m) de primeira linha
+
+EN fiscal year
+PT exercício (m) financeiro
+PT ano (m)
+
+--
+Erro sintático na linha 1424
+--
+
+EN flexible budget
+PT orçamento (m) flexível
+
+EN float (to -)
+PT colocar no mercado
+
+--
+Erro sintático na linha 1438
+--
+
+EN flotation
+PT flutuação (f)
+PT levantar empréstimo (m)
+
+--
+Erro sintático na linha 1444
+--
+
+EN follow-up
+PT seguimento (m)
+PT acompanhamento
+
+--
+Erro sintático na linha 1457
+--
+
+EN foreman
+PT capataz (m)
+PT contramestre (m)
+PT chefe (m) de seção
+
+--
+Erro sintático na linha 1477
+--
+
+EN freelance
+PT colaborador (m) independente
+PT autônomo (m)
+
+EN freight
+PT frete (m)
+
+EN frequency distribution
+PT distribuição (f) de freqüência
+
+--
+Erro sintático na linha 1497
+--
+
+EN full time
+PT tempo (m) integral
+
+--
+Erro sintático na linha 1502
+--
+
+EN future price
+PT preço (m) de venda ou compra a termo
+
+EN future (s)
+PT futuros (mpl)
+
+------------------
+Seção: G
+
+EN gain:
+PT ganho (m)
+PT lucro (m)
+
+--
+Erro sintático na linha 1525
+--
+
+EN Gantt chart
+PT quadro (m) de Gantt
+
+--
+Erro sintático na linha 1534
+--
+
+EN gap study
+PT estudo (m) de intervalos
+
+EN Gaussian curve
+PT curva (f) de Gauss
+PT curva (f) de
+
+--
+Erro sintático na linha 1537
+--
+
+EN gearing
+PT engrenagem (f) financeira de uma
+
+EN general expenses
+PT despesas (fpl) gerais
+
+EN give notice (to -)
+PT demitir
+PT pedir demissão (f)
+
+EN go on strike (to -)
+PT fazer greve (f)
+
+EN go public (to -)
+PT lançar uma oferta (f) pública de ações
+
+EN go slow
+PT operação (f) tartaruga
+
+EN goal:
+PT objetivo (m)
+PT meta (f)
+
+--
+Erro sintático na linha 1546
+--
+
+EN gold standard
+PT padrão (m) ouro
+
+EN goods:
+PT bens (mpl)
+
+--
+Erro sintático na linha 1557
+--
+
+EN goodwill
+PT fundo (m) de comércio
+
+EN grant (to)
+PT conceder
+
+EN gratuity
+PT gratificação (f)
+PT gorjeta (f)
+
+--
+Erro sintático na linha 1565
+--
+
+EN grievance procedure
+PT procedimento (m) para atender queixas
+
+--
+Erro sintático na linha 1569
+--
+
+EN groupage
+PT sistema (m) de consolidação de
+
+EN growth:
+PT crescimento (m)
+
+EN guarantor
+PT fiador (m)
+PT avalista (m)
+
+EN guesstimate
+PT estimativa (f) aproximada
+
+------------------
+Seção: H
+
+--
+Erro sintático na linha 1601
+--
+
+EN hardware
+PT componentes (mpl) físicos de
+
+EN head office
+PT sede (f)
+PT matriz (f)
+
+EN hedge (to -)
+PT cobrir-se contra perdas
+
+EN hedging operation
+PT operação (f) de cobertura
+
+EN heuristics
+PT heurística (f)
+
+EN hierarchy of goals
+PT hierarquia (f) de objetivos
+
+EN high market
+PT mercado (m) em alta
+
+EN hire:
+PT contratar
+PT admitir
+
+--
+Erro sintático na linha 1617
+--
+
+EN historical cost
+PT custo (m) histórico
+
+EN hold margins (to -)
+PT manter as margens
+PT manter a
+
+--
+Erro sintático na linha 1622
+--
+
+EN holding company
+PT companhia (f) holding
+PT matriz (f)
+
+EN holdings
+PT participação (f)
+
+--
+Erro sintático na linha 1626
+--
+
+EN horizontal integration
+PT integração (f) horizontal
+
+--
+Erro sintático na linha 1629
+--
+
+EN hypermarket
+PT hipermercado (m)
+
+------------------
+Seção: I
+
+--
+Erro sintático na linha 1637
+--
+
+EN IPM (integrated project
+PT gestão (f) integrada de projetos
+
+--
+Erro sintático na linha 1641
+--
+
+EN IRR (internal rate of return)
+PT taxa (f) de rendimento interno
+
+--
+Erro sintático na linha 1644
+--
+
+EN impound (to -)
+PT apreender judicialmente
+
+--
+Erro sintático na linha 1664
+--
+
+EN in bond
+PT não desembaraçado da alfândega
+
+EN in bulk
+PT a granel (m)
+
+EN in-plant training
+PT treinamento (m) interno
+
+--
+Erro sintático na linha 1671
+--
+
+EN incidental costs
+PT custos (mpl) adicionais
+
+--
+Erro sintático na linha 1675
+--
+
+EN incorporate (to -)
+PT formar uma sociedade
+
+EN incremental cash flow
+PT fluxo (m) de caixa marginal
+
+EN indemnification
+PT indenização (f)
+
+EN indemnify
+PT indenizar
+
+EN indemnity
+PT indenização (f)
+
+--
+Erro sintático na linha 1691
+--
+
+EN inequality
+PT desigualdade (f)
+
+EN inflation
+PT inflação (f)
+
+EN informal organisation
+PT organização (f) informal
+
+--
+Erro sintático na linha 1717
+--
+
+EN infringe (to -)
+PT violar
+
+EN input:
+PT insumo
+
+--
+Erro sintático na linha 1731
+--
+
+EN insolvency
+PT insolvência (f)
+PT falência (f)
+
+--
+Erro sintático na linha 1737
+--
+
+EN insurable value
+PT valor (m) segurável
+
+--
+Erro sintático na linha 1744
+--
+
+EN intangible assets
+PT ativo (m) intangível
+
+--
+Erro sintático na linha 1748
+--
+
+EN interbank rate
+PT taxa (f) interbancária
+
+EN intercompany profit
+PT lucro (m) sobre transações entre
+
+--
+Erro sintático na linha 1752
+--
+
+EN interface
+PT ponto (m) em comum entre sistemas
+
+EN interfirm comparison
+PT comparação (f) interempresarial
+
+--
+Erro sintático na linha 1763
+--
+
+EN interlocking directorate
+PT diretoria (f) entrosada
+
+--
+Erro sintático na linha 1767
+--
+
+EN in transit -
+PT em trânsito (m)
+
+EN intuitive management
+PT gestão (f) intuitiva
+
+--
+Erro sintático na linha 1774
+--
+
+EN invest (to -)
+PT investir
+
+--
+Erro sintático na linha 1781
+--
+
+EN invoice
+PT fatura (f)
+
+EN invoice (to-)
+PT faturar
+
+EN irrevocable letter of credit
+PT carta (f) de crédito irrevogável
+
+EN issue
+PT emissão (f)
+
+EN issued capital
+PT capital (f) em ações
+
+EN issuing house
+PT emissor (m)
+
+------------------
+Seção: J
+
+--
+Erro sintático na linha 1803
+--
+
+EN jobber
+PT agiota (m)
+PT empreiteiro (m)
+
+EN jobbing
+PT agiotagem (m)
+
+--
+Erro sintático na linha 1828
+--
+
+EN jurisdiction
+PT alçada (f)
+PT área de competência
+
+------------------
+Seção: K
+
+EN key money
+PT luvas (fpl)
+
+EN know-how
+PT experiência (f)
+PT perícia
+
+------------------
+Seção: L
+
+EN LAFTA (Latin American Free
+PT ALALC (Associação Latino-
+
+--
+Erro sintático na linha 1849
+--
+
+EN LTD (limited)
+PT Ltda
+
+EN lag
+PT defasagem (m)
+PT retardo (m)
+
+EN lag response
+PT resposta (f) retardada
+
+EN landing charges
+PT despesas (fpl) de desembarque
+
+--
+Erro sintático na linha 1864
+--
+
+EN Latin American Free Trade
+PT Associação (f) Latino-Americana de
+
+EN launching
+PT lançamento (m)
+
+EN lay days
+PT demora (f) para carga ou descarga
+
+EN lay-out :
+PT functional -
+
+--
+Erro sintático na linha 1873
+--
+
+EN lead time
+PT prazo (m) de entrega
+PT prazo (m) de
+
+--
+Erro sintático na linha 1879
+--
+
+EN leadership
+PT liderança (f)
+
+--
+Erro sintático na linha 1889
+--
+
+EN lease contract
+PT contrato (m) de arrendamento
+
+EN lease or buy
+PT aluguel (m) ou compra
+
+EN leasing:
+PT arrendamento (m)
+PT aluguel (m)
+
+--
+Erro sintático na linha 1894
+--
+
+EN ledger
+PT livro-razão (m)
+
+--
+Erro sintático na linha 1898
+--
+
+EN leverage
+PT influência (f) econômica
+PT ação (f)
+
+--
+Erro sintático na linha 1907
+--
+
+EN levy
+PT tributo (m)
+PT arrecadação (f)
+
+EN liability
+PT obrigação (f)
+PT passivo (m) exigível
+
+EN liabilities:
+PT current -
+
+--
+Erro sintático na linha 1912
+--
+
+EN licence
+PT licença (f)
+PT autorização (f)
+
+EN licensing:
+PT crosslicensing
+
+--
+Erro sintático na linha 1918
+--
+
+EN line:
+PT linha (f)
+
+EN liquid assets
+PT ativo (m) líquido
+
+EN liquidation
+PT liquidação (f)
+
+EN liquidating:
+PT self-
+
+--
+Erro sintático na linha 1953
+--
+
+EN liquidity ratio
+PT índice (m) de liquidez
+
+--
+Erro sintático na linha 1957
+--
+
+EN lockout
+PT greve (f) patronal
+
+EN logistics
+PT logística (f)
+
+EN long-range planning
+PT planejamento (m) de longo alcance
+
+EN long-term planning
+PT planejamento (m) a longo prazo
+
+EN long-term liabilities
+PT passivo (m) exigível a longo prazo
+
+--
+Erro sintático na linha 1971
+--
+
+EN MBO (management by objectives)
+PT gestão (f) por objetivos
+
+EN MIS (management information
+PT system)
+
+--
+Erro sintático na linha 1989
+--
+
+EN MRA (multiple regression
+PT analysis)
+
+EN machine language
+PT linguagem (f) de máquina
+
+--
+Erro sintático na linha 1994
+--
+
+EN main office
+PT sede (f)
+PT matriz (f)
+
+--
+Erro sintático na linha 1997
+--
+
+EN majority interest
+PT participação (f) majoritária
+
+EN make or buy decision
+PT decisão (f) de fabricar ou comprar
+
+EN manage (to -)
+PT gerenciar
+PT administrar
+PT dirigir
+PT controlar
+
+--
+Erro sintático na linha 2006
+--
+
+EN system - company
+PT sistematizada
+
+EN management:
+PT direção (f)
+PT gestão (f)
+
+--
+Erro sintático na linha 2011
+--
+
+EN business -
+PT administração (f) de empresas
+
+EN cash -
+PT controle (m) de caixa
+
+EN credit -
+PT administração (f) de crédito
+
+EN division -
+PT controle (m) por setores
+
+EN dynamic - model
+PT modelo (m) dinâmico de
+
+--
+Erro sintático na linha 2040
+--
+
+EN effective -
+PT administração (f) eficaz
+
+EN financial -
+PT administração (f) financeira
+
+EN functional -
+PT administração (f) funcional
+
+EN general -
+PT direção (f) geral
+
+EN intuitive -
+PT gestão (f) intuitiva
+
+EN investment -
+PT administração (f) de investimentos
+
+EN line -
+PT estrutura (f) de linhas de
+
+--
+Erro sintático na linha 2048
+--
+
+EN manpower -
+PT administração (f) de mão-de-obra
+
+EN market -
+PT gestão (f) de mercados
+
+EN matrix -
+PT organização (f) de matriz
+
+EN middle -
+PT gerência (f) de segundo escalão
+
+EN multiple -
+PT gestão (f) múltipla
+
+EN office -
+PT administração (f) do escritório
+
+EN operating -
+PT gestão (f) operativa
+
+EN operations -
+PT gestão (f) de operações
+
+EN participative -
+PT gestão (f) participativa
+
+EN personnel -
+PT administração (f) de pessoal
+
+--
+Erro sintático na linha 2059
+--
+
+EN managing director:
+PT diretor-presidente (m)
+PT diretor-gerente (m)
+
+--
+Erro sintático na linha 2102
+--
+
+EN mark-up
+PT margem (f) de lucro
+PT margem (f)
+
+--
+Erro sintático na linha 2174
+--
+
+EN materials handling
+PT manuseio (m) de materiais
+
+EN mathematical programming
+PT programação (f) matemática
+
+EN matrix management
+PT organização (f) de matriz
+
+--
+Erro sintático na linha 2183
+--
+
+EN mean
+PT média (f)
+
+--
+Erro sintático na linha 2188
+--
+
+EN median
+PT mediana (f)
+
+EN mediation
+PT mediação (f)
+
+--
+Erro sintático na linha 2199
+--
+
+EN memory
+PT memória
+
+--
+Erro sintático na linha 2202
+--
+
+EN merger
+PT fusão (f)
+PT consolidação (f)
+
+EN merit rating
+PT classificação (f) por méritos
+
+--
+Erro sintático na linha 2206
+--
+
+EN methectics
+PT dinâmica (f) de grupos
+
+--
+Erro sintático na linha 2209
+--
+
+EN middle management
+PT gerência (f) de segundo escalão
+
+EN middleman
+PT corretor (m)
+PT intermediário (m)
+
+EN minority interest
+PT participação (f) minoritária
+
+EN minimum wage
+PT salário (m) mínimo
+
+EN misappropriate (to-)
+PT desviar
+PT obter por fraude
+
+--
+Erro sintático na linha 2225
+--
+
+EN mixed capital company
+PT companhia (f) de capital misto
+
+--
+Erro sintático na linha 2237
+--
+
+EN mode
+PT modalidade (f)
+PT modo (m)
+PT moda
+
+--
+Erro sintático na linha 2240
+--
+
+EN modular production
+PT produção (f) modular
+
+EN monetary correction
+PT correção (f) monetária
+
+--
+Erro sintático na linha 2250
+--
+
+EN monitor (to -)
+PT controlar
+
+EN moonlighting
+PT trabalhar em dois empregos
+
+EN morphological analysis
+PT análise (f) morfológica
+
+EN mortgage
+PT hipoteca (f)
+
+--
+Erro sintático na linha 2259
+--
+
+EN motivational research
+PT investigação (f) de motivação
+
+EN motivador
+PT motivador (m)
+
+--
+Erro sintático na linha 2269
+--
+
+EN moving average
+PT média (f) móvel
+
+EN multi-access
+PT acesso (m) múltiplo
+
+EN multinacional
+PT multinacional
+
+--
+Erro sintático na linha 2274
+--
+
+EN NPV (net present value)
+PT valor (m) líquido atual
+
+EN nationalize (to -)
+PT nacionalizar
+PT estatizar
+
+EN national income
+PT renda (f) interna
+
+--
+Erro sintático na linha 2285
+--
+
+EN near cash
+PT valores (mpl) rapidamente conversíveis
+
+EN needs analysis
+PT análise (f) de necessidades
+
+--
+Erro sintático na linha 2290
+--
+
+EN new product development
+PT desenvolvimento (m) de novos produtos
+
+EN nominal value
+PT valor (m) nominal
+
+EN non-executive director
+PT diretor (m) sem poder executivo
+
+EN non-linear programming
+PT programação (f) não linear
+
+EN non-profit making
+PT sem fins (mpl) lucrativos
+
+--
+Erro sintático na linha 2319
+--
+
+EN notarize
+PT autenticar
+PT reconhecer em tabelião
+
+EN notary public
+PT tabelião (m)
+
+EN note
+PT nota (f)
+PT letra (f)
+PT promissória (f)
+
+EN null
+PT nulo
+PT inválido
+
+EN numerical control
+PT controle (m) numérico
+
+------------------
+Seção: O
+
+--
+Erro sintático na linha 2331
+--
+
+EN methods)
+PT organização (f) e métodos
+
+--
+Erro sintático na linha 2333
+--
+
+EN operations research)
+PT investigação (f) operacional
+
+--
+Erro sintático na linha 2336
+--
+
+EN obligation
+PT obrigação (f)
+PT debenture (m)
+PT título (m)
+
+--
+Erro sintático na linha 2344
+--
+
+EN obsolescence:
+PT obsolescência (f)
+
+EN ocean freight
+PT frete (m) marítimo
+
+EN offer
+PT oferta (f)
+PT proposta (f)
+
+EN off-the-job training
+PT treinamento (f) fora da empresa
+
+--
+Erro sintático na linha 2352
+--
+
+EN offset
+PT retificação (f)
+
+EN offset (to)
+PT retificar
+PT contrabalançar
+
+EN oligopoly
+PT oligopólio (m)
+
+EN on account
+PT pagamento (m) parcial
+
+EN on approval
+PT sujeito a aprovação (f)
+
+EN on consignment
+PT em consignação (f)
+
+EN on-cost
+PT sobrecusto (m)
+
+EN on demand
+PT de imediato
+PT à vista
+
+EN on line
+PT em linha (f)
+PT em execução (f)
+
+EN on sale
+PT à venda
+
+EN on stream
+PT em operação (f)
+
+EN on time
+PT em tempo (m)
+
+EN on-the-job training
+PT treinamento (m) dentro da empresa
+
+--
+Erro sintático na linha 2374
+--
+
+EN optimise (to)
+PT otimizar
+
+--
+Erro sintático na linha 2401
+--
+
+EN optional dividend
+PT dividendo (m) optativo
+
+--
+Erro sintático na linha 2404
+--
+
+EN ordinary interest
+PT juro (m) simples
+
+EN origin certificate
+PT certificado (m) de origem
+
+--
+Erro sintático na linha 2408
+--
+
+EN organogram
+PT organograma (m)
+
+--
+Erro sintático na linha 2425
+--
+
+EN out-of-pocket expense
+PT despesa (f) desembolsada
+
+--
+Erro sintático na linha 2428
+--
+
+EN output:
+PT produção
+
+EN outside director
+PT diretor (m) externo
+PT diretor (m) suplente
+
+EN outstanding balance
+PT saldo (m) a receber
+PT saldo (m) a pagar
+
+EN overall company objectives
+PT objetivos (mpl) globais da empresa
+
+EN over-the-counter
+PT venda (f) de balcão
+PT fora da bolsa
+
+EN overcapitalised
+PT sobrecapitalizado
+
+EN overcharge (to)
+PT cobrar demais
+
+EN overdraft
+PT conta (f) bancária a descoberto
+
+EN overdraw (to)
+PT sacar a descoberto
+
+EN overdue
+PT vencido e hão pago
+PT atrasado
+
+EN overhead expenses
+PT despesas (fpl) gerais
+
+--
+Erro sintático na linha 2449
+--
+
+EN overtime
+PT trabalho (m) extraordinário
+PT hora (f)
+
+--
+Erro sintático na linha 2453
+--
+
+EN PERT (programme evaluation
+PT técnica (f) de avaliação e revisão de
+
+EN PMTS (predetermined motion
+PT sistema (m) de movimentos
+
+EN PPBS (planning programming
+PT sistema (m) orçamentário de
+
+EN PR (public relations)
+PT relações (fpl) públicas
+
+EN packaging
+PT embalagem (m)
+
+EN packing list
+PT lista (f) de mercadorias
+
+EN paid-in capital
+PT capital (m) integralizado
+PT capital (m)
+
+--
+Erro sintático na linha 2474
+--
+
+EN palletisation
+PT carga (f) paletizada
+
+EN pallets
+PT pallet (m)
+PT estrado (m)
+
+--
+Erro sintático na linha 2481
+--
+
+EN paper profit
+PT lucro (m) escriturai
+
+--
+Erro sintático na linha 2484
+--
+
+EN parametric programming
+PT programação (f) paramétrica
+
+EN parent company
+PT companhia (f) matriz
+
+--
+Erro sintático na linha 2488
+--
+
+EN part payment
+PT pagamento (m) a prestação
+
+--
+Erro sintático na linha 2491
+--
+
+EN participative management
+PT gestão (f) participativa
+
+EN partners
+PT sócios (mpl)
+
+EN partnership
+PT sociedade (f)
+PT participação (f)
+
+--
+Erro sintático na linha 2496
+--
+
+EN patron
+PT cliente (m)
+PT freguês (m)
+
+EN payback
+PT retorno (m)
+PT reembolso (m)
+
+--
+Erro sintático na linha 2501
+--
+
+EN payoff
+PT recompensa (f)
+PT compensação
+
+EN payroll
+PT folha (f) de pagamento
+
+EN pegging
+PT fixação (f) de preços
+
+EN penalty
+PT multa (f)
+
+--
+Erro sintático na linha 2511
+--
+
+EN per cent
+PT por cento
+
+EN percentage
+PT porcentagem (f)
+
+EN per-share earnings
+PT lucro (m) por ação
+
+--
+Erro sintático na linha 2516
+--
+
+EN peripheral equipment
+PT equipamento (m) periférico
+
+EN permit
+PT licença (f)
+PT autorização (f)
+
+EN perpetual inventory
+PT registro (m) permanente de estoque
+
+EN personal growth
+PT formação (f) pessoal
+
+--
+Erro sintático na linha 2535
+--
+
+EN pertinence tree
+PT árvore (m) de pertinência
+
+--
+Erro sintático na linha 2543
+--
+
+EN picket
+PT piquete (m) de greve
+
+EN pie chart
+PT gráfico (m) circular em setores
+
+EN piece rate
+PT pagamento (m) por serviços avulsos
+PT salário-tarefa (m)
+
+EN piecework
+PT trabalho (m) por empreitada
+
+EN pilot production
+PT produção (f) piloto
+
+EN pioneer products
+PT produtos (m) pioneiros
+
+--
+Erro sintático na linha 2555
+--
+
+EN plant:
+PT parque (m) industrial
+PT instalações (fpl)
+
+--
+Erro sintático na linha 2591
+--
+
+EN ploughback
+PT reinvestimento (m) de lucros
+
+--
+Erro sintático na linha 2602
+--
+
+EN pooling arrangements
+PT acordos (mpl) consorciais
+
+--
+Erro sintático na linha 2622
+--
+
+EN purchasing -
+PT poder (m) aquisitivo
+
+--
+Erro sintático na linha 2640
+--
+
+EN predetermined motion time
+PT sistema (m) de movimentos
+
+EN premium
+PT prêmio (m)
+PT ágio (m)
+
+EN prepaid
+PT pagamento (m) antecipado
+
+EN present value
+PT valor (m) atual
+
+EN present value method
+PT método (m) de valor atual
+
+EN president:
+PT presidente (m)
+PT diretor-gerente (m)
+PT diretor (m) geral
+
+--
+Erro sintático na linha 2653
+--
+
+EN preventive maintenance
+PT manutenção (f) preventiva
+
+--
+Erro sintático na linha 2656
+--
+
+EN prime rate
+PT taxa (f) preferencial de juros
+
+EN private limited company
+PT pessoa (f) jurídica de direito privado
+
+EN probability theory
+PT teoria (f) das probabilidades
+
+--
+Erro sintático na linha 2684
+--
+
+EN process:
+PT sistemas (mpl) e procedimentos
+
+EN profit (to-)
+PT lucrar
+
+--
+Erro sintático na linha 2778
+--
+
+EN profitable
+PT lucrativo
+PT rendoso
+PT rentável
+
+--
+Erro sintático na linha 2808
+--
+
+EN progressive tax
+PT imposto (m) progressivo
+
+--
+Erro sintático na linha 2836
+--
+
+EN promissory note
+PT nota (f) promissória
+
+--
+Erro sintático na linha 2847
+--
+
+EN proprietor
+PT proprietário (m)
+
+EN pro rata
+PT proporcional
+PT rateado
+
+EN prospect
+PT cliente em potencial
+
+--
+Erro sintático na linha 2858
+--
+
+EN protested bill
+PT letra (f) protestada
+
+EN prototype
+PT protótipo (m)
+
+EN proxy
+PT procuração (f)
+
+--
+Erro sintático na linha 2863
+--
+
+EN public corporation
+PT pessoa (f) jurídica de direito público
+
+EN public limited company
+PT sociedade (f) anônima
+
+EN public relations (PR)
+PT relações (fpl) públicas
+
+EN purchase
+PT compra (f)
+PT aquisição (f)
+
+--
+Erro sintático na linha 2869
+--
+
+EN QC (quality control)
+PT controle (m) de qualidade
+
+EN qualification
+PT qualificação (f)
+PT competência (f)
+
+--
+Erro sintático na linha 2878
+--
+
+EN quarterly
+PT trimestralmente
+
+EN queuing theory
+PT teoria (f) de filas
+
+EN quick asset
+PT ativo (m) de realização imediata
+
+--
+Erro sintático na linha 2889
+--
+
+EN quotation
+PT cotação (f)
+
+EN quote (to -)
+PT cotar
+PT fornecer preços
+
+------------------
+Seção: R
+
+--
+Erro sintático na linha 2896
+--
+
+EN RPM (resale price maintenance)
+PT controle (m) de preços de revenda
+
+--
+Erro sintático na linha 2900
+--
+
+EN rake-off
+PT comissão (f) ilegal
+
+--
+Erro sintático na linha 2903
+--
+
+EN rate (to)
+PT taxar
+PT classificar
+
+--
+Erro sintático na linha 2912
+--
+
+EN rate of return:
+PT taxa (f) de
+
+EN rationalisation
+PT organização (f) racional
+PT racionalização (f)
+
+EN rationing:
+PT racionamento (m)
+
+--
+Erro sintático na linha 2942
+--
+
+EN raw material
+PT matéria (f) prima
+
+EN ready money
+PT dinheiro (m) vivo
+
+--
+Erro sintático na linha 2946
+--
+
+EN rebate
+PT abatimento (m)
+
+EN rebate (to-)
+PT abater
+
+EN receiver
+PT liquidante (m)
+
+--
+Erro sintático na linha 2955
+--
+
+EN reconciliation
+PT reconciliação (f)
+
+EN reconstruction:
+PT company -
+
+--
+Erro sintático na linha 2959
+--
+
+EN recoverable cost
+PT custo (m) recuperável
+
+--
+Erro sintático na linha 2963
+--
+
+EN recruitment
+PT recrutamento (m)
+
+EN recycle (to -)
+PT reciclar
+
+EN redeemable
+PT redimível
+PT resgatável
+
+EN redemption
+PT reembolso (m)
+PT resgate (m)
+
+EN redeployment
+PT reorganização (f)
+
+--
+Erro sintático na linha 2972
+--
+
+EN redundancy
+PT excesso (m) de pessoal
+
+EN refund (to-)
+PT reembolsar
+
+EN refund
+PT reembolso (m)
+PT restituição (f)
+
+EN regression analysis
+PT análise (f) de regressão
+
+--
+Erro sintático na linha 2978
+--
+
+EN regressive tax
+PT imposto (m) regressivo
+
+EN reimburse (to)
+PT reembolsar
+
+EN reimbursement
+PT reembolso (m)
+
+--
+Erro sintático na linha 2983
+--
+
+EN remittance
+PT remessa (f)
+PT transferência (f)
+
+EN remuneration
+PT remuneração (f)
+
+EN render (to -)
+PT prestar
+
+EN rent
+PT aluguel (m)
+PT arrendamento (m)
+
+EN reorganisation
+PT reorganização (f)
+
+EN replacement cost
+PT custo (m) de substituição (f)
+
+--
+Erro sintático na linha 2999
+--
+
+EN requisition
+PT requisição (f)
+
+EN resale
+PT revenda (f)
+
+EN resale price maintenance (RPM)
+PT controle (m) de preços de revenda
+
+--
+Erro sintático na linha 3007
+--
+
+EN residual cost
+PT custo (m) residual
+
+--
+Erro sintático na linha 3024
+--
+
+EN restrictive practices
+PT práticas (fpl) restritivas
+
+EN restructuring
+PT reestruturação (f)
+
+--
+Erro sintático na linha 3044
+--
+
+EN retailer
+PT varejista (m)
+
+EN retained earnings
+PT lucros (mpl) não distribuídos
+PT lucros
+
+--
+Erro sintático na linha 3051
+--
+
+EN retirement
+PT aposentadoria (f)
+
+EN retraining
+PT retreinamento (m)
+
+--
+Erro sintático na linha 3055
+--
+
+EN revaluation
+PT reavaliação (f)
+PT correção (f) monetária
+
+EN revaluation of assets
+PT reavaliação (f) do ativo
+
+EN revenue
+PT receita (f)
+PT renda (f)
+
+--
+Erro sintático na linha 3068
+--
+
+EN revolving credit
+PT crédito (m) rotativo
+PT crédito (m)
+
+--
+Erro sintático na linha 3070
+--
+
+EN rights
+PT direitos (mpl)
+
+--
+Erro sintático na linha 3073
+--
+
+EN rubber cheque
+PT cheque (m) sem fundos
+
+EN running expenses
+PT despesas (fplj operacionais
+
+--
+Erro sintático na linha 3096
+--
+
+EN sample size
+PT tamanho (m) de amostra
+
+--
+Erro sintático na linha 3144
+--
+
+EN saving deposit
+PT depósito (m) de poupança
+
+EN scab
+PT fura-greve (mlf)
+
+--
+Erro sintático na linha 3156
+--
+
+EN scatter diagram
+PT diagrama (m) de dispersão
+
+--
+Erro sintático na linha 3160
+--
+
+EN scientific programming
+PT programação (f) científica
+
+EN scrap value
+PT valor (m) de sucata
+
+EN screen (to -)
+PT selecionar
+
+EN scrip
+PT certificado (m) de compra de ações
+PT ação (f) de bonificação
+
+--
+Erro sintático na linha 3176
+--
+
+EN securities
+PT títulos (mpl)
+PT valores (mpl)
+PT obrigações (mpl)
+
+--
+Erro sintático na linha 3180
+--
+
+EN sellers market
+PT mercado (m) do vendedor
+
+--
+Erro sintático na linha 3196
+--
+
+EN semi-variable costs
+PT custos (mpl) semi-variáveis
+
+--
+Erro sintático na linha 3205
+--
+
+EN sensitise (to -)
+PT sensibilizar
+
+EN sequential analysis
+PT análise (f) seqüencial
+
+--
+Erro sintático na linha 3210
+--
+
+EN set-up time
+PT tempo (m) de preparo
+
+EN severance
+PT demissão (f)
+PT dispensa (f)
+
+--
+Erro sintático na linha 3223
+--
+
+EN shipping documents
+PT documentos (mpl) de embarque
+
+--
+Erro sintático na linha 3235
+--
+
+EN shut down
+PT fechamento (m)
+PT encerramento (m)
+
+--
+Erro sintático na linha 3243
+--
+
+EN sight bill
+PT letra (f) à vista
+
+EN sight-draft
+PT saque (m) à vista
+
+EN simple interest
+PT juro (m) simples
+
+EN simplex method
+PT método (m) simplex (usado na
+
+--
+Erro sintático na linha 3248
+--
+
+EN simulate (to -)
+PT simular
+
+--
+Erro sintático na linha 3254
+--
+
+EN sinking fund
+PT fundo (m) para amortização
+
+EN sit-down strike
+PT greve (f) branca
+
+EN skills analysis
+PT análise (f) de habilidades
+
+EN slush fund
+PT caixa (f) preta
+
+EN smoothing
+PT ajustamento de curva
+
+EN soft selling
+PT venda (f) sutil
+
+--
+Erro sintático na linha 3262
+--
+
+EN sole agent
+PT agente (m) exclusivo
+
+EN solvency
+PT solvência (f)
+
+--
+Erro sintático na linha 3267
+--
+
+EN source and disposition of funds
+PT origem (m) e aplicação (f) de recursos
+
+--
+Erro sintático na linha 3270
+--
+
+EN specie
+PT espécie (m)
+PT dinheiro (m) vivo
+
+--
+Erro sintático na linha 3274
+--
+
+EN speculator
+PT especulador (m)
+
+EN spin-off effects
+PT resultados (mpl) secundários
+
+--
+Erro sintático na linha 3279
+--
+
+EN spot price
+PT preço (m) para entrega imediata
+
+EN spread rate
+PT taxa de risco
+
+--
+Erro sintático na linha 3283
+--
+
+EN staggered holidays
+PT férias (fpl) escalonadas
+
+EN stamp duty
+PT imposto (m) do selo
+
+--
+Erro sintático na linha 3295
+--
+
+EN standardisation
+PT padronização (f)
+
+--
+Erro sintático na linha 3308
+--
+
+EN statistical control
+PT controle (m) estatístico
+
+--
+Erro sintático na linha 3314
+--
+
+EN stockholder
+PT acionista (m)
+
+EN stockholding
+PT investimento (m) em ações
+
+EN stockpile (to-)
+PT estocar
+PT armazenar
+
+--
+Erro sintático na linha 3331
+--
+
+EN stocks
+PT estoques (mpl)
+
+--
+Erro sintático na linha 3334
+--
+
+EN store
+PT depósito (m)
+PT armazém (m)
+PT memória
+
+--
+Erro sintático na linha 3337
+--
+
+EN streamline (to -)
+PT racionalizar
+
+--
+Erro sintático na linha 3361
+--
+
+EN structure (to -)
+PT estruturar
+
+--
+Erro sintático na linha 3369
+--
+
+EN subcontract
+PT subcontratar
+PT subempreitar
+
+EN subliminal advertising
+PT publicidade (f) subliminar
+
+EN sub-optimisation
+PT sub-otimização
+
+EN subsidiary company
+PT companhia (f) subsidiária
+
+EN subsidy
+PT subsídio (m)
+PT subvenção (f)
+
+EN subvention
+PT subvenção (f)
+
+--
+Erro sintático na linha 3402
+--
+
+EN suggestion scheme
+PT esquema (f) de sugestões
+
+EN sundry
+PT diverso
+
+EN superannuate (to -)
+PT aposentar
+
+EN superannuation
+PT aposentadoria (f)
+
+EN supertax
+PT sobretaxa (f)
+
+EN supervisory management
+PT gestão (f) supervisora
+
+--
+Erro sintático na linha 3411
+--
+
+EN supporting document
+PT comprovante (m)
+
+EN surcharge
+PT sobretaxa (f)
+
+EN surety
+PT fiança (f)
+PT garantia (f)
+
+EN surtax
+PT sobretaxa (f)
+
+--
+Erro sintático na linha 3421
+--
+
+EN survival strategy
+PT estratégia (f) de sobrevivência
+
+EN switch selling
+PT venda (f) com combinação de marcas
+
+EN syndicate
+PT sindicato (m)
+PT consórcio (m)
+
+EN synergy
+PT sinergia (f)
+PT coordenação (f)
+
+--
+Erro sintático na linha 3428
+--
+
+EN systematise (to -)
+PT sistematizar
+
+EN systems analysis
+PT análise (f) de sistemas
+
+EN systems and procedures
+PT sistemas (mpl) e procedimentos
+
+EN systems approach
+PT abordagem (f) sistemática
+
+EN systems design
+PT planejamento (m) de sistemas
+
+--
+Erro sintático na linha 3442
+--
+
+EN systems planning
+PT planejamento (m) de sistemas
+
+EN systems theory
+PT teoria (f) de sistemas
+
+--
+Erro sintático na linha 3446
+--
+
+EN T-group training
+PT diagnóstico (m) de grupos
+
+EN TWI (training within industry)
+PT treinamento (m) dentro da indústria
+
+EN tactical plan
+PT plano (m) tático
+
+EN tactics:
+PT competitive -
+
+--
+Erro sintático na linha 3455
+--
+
+EN take-off
+PT decolagem (f)
+
+--
+Erro sintático na linha 3458
+--
+
+EN talk:
+PT sales -
+
+EN tangible assets
+PT ativo (m) tangível
+
+--
+Erro sintático na linha 3466
+--
+
+EN tariff
+PT tarifa (f)
+
+EN task force
+PT grupo (m) de trabalho
+PT grupo (m)
+
+--
+Erro sintático na linha 3472
+--
+
+EN taxable profit
+PT lucro (m) tributável
+
+EN taxation relief:
+PT double-
+
+--
+Erro sintático na linha 3480
+--
+
+EN taxpayer
+PT contribuinte (m) (de imposto)
+
+EN techniques:
+PT management -
+
+--
+Erro sintático na linha 3484
+--
+
+EN technological forecasting
+PT previsão (f) tecnológica
+
+--
+Erro sintático na linha 3487
+--
+
+EN tender
+PT proposta (f)
+PT oferta (f)
+
+--
+Erro sintático na linha 3491
+--
+
+EN testing:
+PT field -
+
+EN theme:
+PT advertising -
+
+EN theory:
+PT administrative -
+
+EN throughput
+PT produção (f) total
+
+EN thrust:
+PT competitive -
+
+--
+Erro sintático na linha 3530
+--
+
+EN top management
+PT diretoria (f)
+PT diretoria (f) executiva
+
+EN top management approach
+PT abordagem (f) da diretoria
+
+EN total quality control
+PT controle (m) geral de qualidade
+
+--
+Erro sintático na linha 3550
+--
+
+EN traineeship
+PT estágio (m)
+
+--
+Erro sintático na linha 3571
+--
+
+EN transactions
+PT transações (fpl)
+
+--
+Erro sintático na linha 3587
+--
+
+EN transit:
+PT in -
+
+EN transportation
+PT meio (m) de transporte
+
+EN traveller's cheque
+PT cheque (mj de viagem
+
+EN tree:
+PT decision -
+
+--
+Erro sintático na linha 3597
+--
+
+EN trend:
+PT economic -
+
+EN trouble shooting
+PT investigação (f) e resolução (f)
+
+EN trustee
+PT fideicomissário (m)
+PT administrador (m)
+
+EN turnover:
+PT inventory
+
+--
+Erro sintático na linha 3614
+--
+
+EN unbundling
+PT separação (f) de tarifas
+
+EN undercapitalised
+PT subcapitalizado
+
+EN undercharge (to -)
+PT cobrar a menos
+
+EN underwrite (to -)
+PT assumir o risco (m) de um seguro
+
+EN unearned revenue
+PT receita (f) não ganha
+
+EN unfair competition
+PT concorrência (f) desleal
+
+EN union
+PT sindicato (m)
+
+EN unit cost
+PT custo (m) unitário
+
+EN unit trust
+PT fundo (m) mútuo
+
+EN unofficial strike
+PT greve (f) não apoiada pelo sindicato
+
+EN unrestricted letter of credit
+PT carta (f) de crédito irrestrita
+
+EN upkeep
+PT manutenção
+
+--
+Erro sintático na linha 3637
+--
+
+EN utility
+PT companhia (f) de serviços de
+
+EN VA (value analsysis)
+PT análise (f) de valores
+
+EN VAT (value added tax)
+PT imposto (m) sobre circulação de
+
+--
+Erro sintático na linha 3650
+--
+
+EN variety reduction
+PT redução (f) de variedade
+
+--
+Erro sintático na linha 3676
+--
+
+EN vertical integration
+PT integração (f) vertical
+
+EN vested interests
+PT interesses (mpl) participatórios
+
+EN viability
+PT viabilidade (f)
+
+EN viable
+PT viável
+
+EN vice-chairman
+PT vice-presidente (m)
+
+EN vice-president
+PT vice-presidente (m)
+
+--
+Erro sintático na linha 3686
+--
+
+EN wages
+PT salários (mpl)
+
+EN walkout
+PT abandono (m) do trabalho
+PT entrando em greve
+
+--
+Erro sintático na linha 3701
+--
+
+EN warehousing
+PT armazenagem (f)
+
+EN waybill
+PT conhecimento (m) de embarque
+
+EN wear and tear
+PT uso (m) e desgaste (m)
+
+EN wholesale
+PT atacado
+
+EN wild-cat strike
+PT greve (f) não autorizada pelo sindicato
+
+EN windfall profit
+PT lucro (m) imprevisto
+
+EN winding up
+PT liquidação (f)
+
+EN window dressing
+PT manipulação (f) das contas para dar
+
+--
+Erro sintático na linha 3710
+--
+
+EN withdrawal
+PT retirada (f)
+
+--
+Erro sintático na linha 3713
+--
+
+EN workmanship
+PT artesanato (m)
+
+--
+Erro sintático na linha 3739
+--
+
+EN write off (to -)
+PT dar baixa (f) nos livros
+
+EN yardstick
+PT norma (f)
+PT gabarito (m)
+PT medida (f)
+PT padrão (m)
+
+--
+Erro sintático na linha 3747
+--
+
+EN yearly report
+PT relatório (m) anual
+
+--
+Erro sintático na linha 3753
+--
+
+EN Z-chart
+PT gráfico (m) Z
+
+------------------

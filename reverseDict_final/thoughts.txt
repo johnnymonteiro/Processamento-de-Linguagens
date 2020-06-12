@@ -1,0 +1,143 @@
+
+ Uma PALAVRA e a sua TRADUCAO encontram-se sempre na mesma linha.
+ Se houver os dois pontos, significa que teremos a aplicação desta PALAVRA numa frase. Este é um exemplo de uma das entradas do dicionário.
+ 
+ Enquanto fazemos a tradução do TERMO, a PALAVRA deve estar contida no início da linha, ou seja,
+ quando formos ler a TRADUCAO ou o significado de um TERMO, só paramos a leitura caso exista ^[word]
+
+ Nos termos relacionados a PALAVRA, sempre começam com um espaço, ou seja, também não estão contidos no início da linha,
+o que facilita no seu reconhecimento e no reconhecimento da sua TRADUCAO.
+ Então, TRADUCAO, seja de TERMO ou PALAVRA, termina somente que encontrar uma PALAVRA no início da outra linha
+ou encontrar um novo TERMO.
+ 
+ Os termos compreendem alguns espaços na margem.
+
+ Palavras não contêm nenhum espace nas margens.
+
+ O dicionário está organizado por ordem alfabética.
+
+Como o objetivo do projeto é transformar o arquivo do dicionário num novo formato, decidimos que não seria
+necessário usar estruturas de dados para procurar os termos em memória.
+
+Trocar o símbolo '-' por +base no arquivo que será produzido.
+
+Colocar a língua em que o TERMO esteja escrito, como EN para inglês e PT para português.
+
+TRADUCAO separadas por vírgula ou ponto e vírgula, são impressas separadamente.
+
+
+__GRAMATICA__
+
+DICIONARIO: SECCAO
+          | DICIONARIO SECCAO
+          ;
+
+SECCAO: ID  LISTA_PALAVRAS              {fprintf(fp,"------------------\n");}
+    ;
+ID: id                                  {fprintf(fp,"Seção: %s\n\n", $1);}
+LISTA_PALAVRAS: PALAVRA                 {fprintf(fp,"\n");}
+              | LISTA_PALAVRAS PALAVRA  {fprintf(fp,"\n");}
+              ;
+PALAVRA: TERMO TRADUCAO                 {fprintf(fp,"%s%s", $1, $2);}  
+    |    TERMO ':' TRADUCAO  L_SUBITEM  {fprintf(fp,"%s%s\n%s",$1,$3,$4);}  
+    |    TERMO ':'  L_SUBITEM           {fprintf(fp,"%s",$3);}
+    |   error PALAVRA
+    ;
+TRADUCAO: traducao                      {sprintf(buffer,"PT %s\n",$1);$$=strdup(buffer);}
+        | TRADUCAO ',' traducao         {sprintf(buffer,"%sPT %s\n",$1,$3);$$=strdup(buffer);}
+        | TRADUCAO ';' traducao         {sprintf(buffer,"%sPT %s\n",$1,$3);$$=strdup(buffer);}
+        ;
+L_SUBITEM: SUBITEM                      {$$ = strdup($1);}
+        |  L_SUBITEM SUBITEM            {sprintf(buffer,"%s\n%s",$1,$2);$$=strdup(buffer);} 
+        ;
+SUBITEM: subitem '-' TRADUCAO           {sprintf(buffer,"EN %s %s\n+base %s:\n%s",$1,mem,mem,$3);$$=strdup(buffer);}
+    | '-' subitem TRADUCAO              {sprintf(buffer,"EN %s %s\n+base %s:\n%s",mem,$2,mem,$3);$$=strdup(buffer);}
+    | subitem '-' subitem TRADUCAO      {sprintf(buffer,"EN %s %s %s\n+base %s:\n%s",$1,mem,$3,mem,$4);$$=strdup(buffer);}                           
+    ;
+TERMO: palavra                          {strcpy(mem,$1); sprintf(buffer,"EN %s\n",$1);$$=strdup(buffer);}
+    ;
+
+
+
+__OBSERVACOES__PARA__RELATORIO__
+
+Eu tentei fazer funcionar com a estrutura descrita acima, mas não funcionou e era muito complexa para
+debuggar, então deixei ela um pouco mais simples. E vou adicionando uma funcionalidade de cada vez.
+Para referir a essas mudanças, estou criando pequenas partes do dicionário e testando determinada funcionalidade.
+
+Consegui criar uma pequena versão que já funciona para o caso mais simples de todos, no entanto, precisamos 
+resolver o seguinte problema:
+Como ler strings que tenha somente um caracter de espaço no meio, para que consigamos diferenciar tais strings
+de definição do termo, das strings de tradução.
+
+Consegui resolver o problema dos espaços em branco no meio das palavras.
+Agora podemos brincar com mais complexidade do lado da gramática.
+
+Ajustei o FLEX para só começar a reconhecer o conteúdo do dicionário após encontrar o __BEGIN__.
+Podemos usar desta ferramenta para outras coisas.
+WORD para reconhecer termos do dicionário
+DICT para limpar formatações desnecessárias.
+
+Arrumei outro caso de uso, onde um termo pode ter mais de uma tradução possível.
+E melhorei um pouco a organização da gramática. Adicionando espaços e imprimindo nos lugares adequados.
+
+
+
+__TEMP__
+
+A
+ADP (automatic data processing)   processamento (m) automático de
+                                   dados
+absenteeism                       absenteísmo (m)
+absorption costing                custeio (f) de absorção
+abandonment:
+ product -                        retirada (f) de um produto
+above par                         com ágio; acima da paridade
+acceleration clause               cláusula (f) de aceleração
+acceptance:                       aceitação (f)
+ brand -                          aceitação (f) de uma marca
+ consumer -                       aceitação (f) por parte do consumidor
+access:
+ multi -                          acesso (m) múltiplo
+ random -                         acesso (m) casual
+account:
+ bank -                           conta (f) bancária
+ joint -                          conta (f) conjunta
+B
+backdate to              antecipar, pré-datar
+bad debt                 dívida (f) duvidosa, dívida (f)
+                          incobrável, empréstimo (m) em
+                          liquidação
+balance:
+ - sheet                 balanço (m) geral
+ debit -                 saldo (m) devedor
+ gross -                 resultado (m) bruto
+ outstanding -           saldo (m) a receber, saldo (m) a pagar
+balance sheet auditing   auditoria (f) de balanço
+bank:
+ - account               conta (f) bancária
+ - deposit               depósito (m) bancário
+ - draft                 saque (m)
+ - overdraft             conta (f) bancária a descoberto
+ - statement             extrato (m) bancário
+ computer -              banco (m) de dados de computador
+ data -                  banco (m) de dados
+ safety -                reserva (/) para imprevistos
+bankers'draft            saque (m) bancário
+bargain                  permuta (f), barganha (f), pechincha (f)
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

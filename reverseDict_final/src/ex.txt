@@ -1,0 +1,218 @@
+
+#==>ORIG English-Português -Inglês - Português.pdf ()<==
+
+ 
+English-Portuguese
+BUSINESS DICTIONARY
+
+DICIONÁRIO DE TERMOS
+ADMINISTRATIVOS E
+COMERCIAIS
+Inglês-Português
+
+James Coveney 
+and 
+Julian Amey
+  
+© Longman Group Ltd 1982
+
+_sec+NA:introd_ Introduction
+This dictionary is an attempt to fill a gap that clearly
+exists: the rapid growth of the management sciences in
+the last two decades has resulted in the coining of many
+new terms to describe new techniques and concepts which
+are not found in English-Portuguese dictionaries.
+
+   The terms included have been drawn from the main
+areas of management interest: business policy and 
+corporate planning, computer techniques, finance, marketing,
+operational research, personnel management and, to a
+lesser degree, production. We have tried to keep a
+proper balance by not over-emphasising any one area.
+
+   In selecting terms for inclusion it was decided to
+give priority to the broader and more general concepts
+over the more technical and specialised terms in 
+management. We also decided to restrict the size of the 
+dictionary, so that it could be slipped into a 
+businessman's briefcase; since the scope of the subject is
+very wide, we have selected only those terms in most
+frequent use. We are conscious of our fallibility in
+selecting such terms and would be grateful if users
+could inform us of any obvious omissions.
+
+   No doubt some users of this dictionary, both in 
+English-speaking and Portuguese-speaking countries, will
+criticise or disagree with the translations we have
+given; we should be pleased to receive proposed 
+alternatives for inclusion in a revised edition.
+
+   Our thanks for their helpful advice and suggestions
+during the preparation of this dictionary are especially
+due to Professor Terry Roberts, latterly of C.U.P. (Rio
+de Janeiro), Prof.ª Eloísa Barbosa (also of C . U . P . , Rio
+de Janeiro), Mr H. Legge-Bourke and Mrs Victoria Amey.
+The compilation of the dictionary was based on the
+Glossary of French and English Management Terms (James
+Coveney and Sheila J. Moore), work on which was made
+possible by a generous grant from the McKinsey 
+Foundation for Management Research.
+
+James Coveney
+Julian Amey
+
+_sec+NA:introd_ Introdução
+Este dicionário constitui uma tentativa de preencher um 
+vazio que sem dúvida existe: o rápido crescimento das 
+ciências da administração nas duas últimas décadas resultou na
+formação de muitos termos novos para descrever novas 
+técnicas e conceitos que não se encontram nos dicionários 
+inglês-português.
+
+   Os termos aqui incluídos foram colhidos nas principais
+áreas de interesse da administração: política e planejamento
+empresarial, técnica de computação, finanças, marketing,
+pesquisa operacional, administração de pessoal e, em grau
+menor, produção. Procuramos manter o equilíbrio 
+adequado, evitando dar ênfase demasiada a qualquer dessas áreas.
+
+   Ao selecionar os termos a serem incluídos no dicionário,
+decidimos dar prioridade aos conceitos mais amplos e 
+gerais, ao invés de aos termos mais técnicos e especializados.
+Decidimos também restringir o tamanho físico do 
+dicionário, de forma que ele possa ser colocado facilmente ao lado
+de outros objetos de trabalho numa maleta de executivo;
+uma vez que as áreas cobertas são bem amplas, escolhemos
+apenas os termos de uso mais freqüente. Estamos 
+conscientes da possibilidade de erro ao selecionar esses termos e 
+ficaríamos gratos se os usuários do dicionário nos alertassem
+quanto a alguma omissão importante.
+
+   Sem dúvida, alguns usuários do dicionário, tanto em 
+países de língua inglesa como de portuguesa, criticarão ou 
+discordarão das traduções que demos; teremos prazer em 
+receber sugestões para alternativas a incluir numa futura edição
+revista.
+
+   Agradecemos especialmente pelos conselhos e indicações
+úteis, durante a preparação do dicionário, ao Professor
+Terry Roberts, trabalhando ultimamente no C.U.P. (Rio de
+Janeiro), à Prof.ª Eloísa Barbosa (também do C . U . P . , Rio
+de Janeiro), ao Sr. H. Legge-Bourke e à Sra. Victoria
+Amey. A compilação do dicionário baseou-se no Glossary
+of French and English Management Terms (James Coveney
+e Sheila J. Moore), trabalho esse que pôde ser realizado gra-
+ças a uma generosa subvenção da McKinsey Foundation for
+Management Research.
+
+
+James Coveney
+Julian Amey 
+INGLÊS                                                  PORTUGUÊS
+
+
+__BEGIN__
+
+A
+appropriation:
+ account -               conta (f) de apropriação
+ advertising -           verba (f) publicitária
+ budget -                verba (f) orçamentária
+ marketing -             verba (f) para marketing
+aptitude test            teste (m) de aptidão
+arbitrage                arbitragem (f)
+arbitration              arbitragem (f)
+area:
+ growth -                área (f) de crescimento
+ product -               setor (f) de produtos
+ problem -               área (f) problemática
+ sales -                 área (f) de vendas
+ trading -               área (f) comercial
+assembly line            linha (f) de montagem
+assessment:              avaliação (f)
+ demand -                avaliação (f) de demanda
+ project -               avaliação (f) de projeto
+ risk -                  avaliação (f) de riscos
+asset:
+ - turnover              movimento (m) do ativo
+ - value                 valor (m) do ativo
+assets:
+ capital -               ativo (m) imobilizado, ativo (m)
+                          fixo, bens (mpl) de capital
+    current -            ativo (m) corrente
+    net current -        ativo (m) corrente líquido
+    earnings on -        rendimento (m) do ativo
+    fixed -              ativo (m) fixo, ativo (m) imobilizado
+    intangible           ativo (m) intangível 
+ liquid -             ativo (m) líquido
+ net -                patrimônio (m) líquido, ativo (m)
+                       líquido
+ quick -              ativo (m) de realização imediata
+ revaluation of -     reavaliação (f) do ativo
+ tangible -           ativo (m) tangível
+assignment:
+ job -                designação (f) de tarefas
+assistant:
+ - manager            gerente-adjunto (m)
+ - to manager         assistente (m) do gerente
+ line -               assistente (m) de linha
+ staff-               assistente (m) consultivo
+associate company     companhia (f) associada
+association:
+ trade -              associação (f) comercial
+at sight              à vista
+attitude:
+ - survey             levantamento (m) de opiniões
+ user -               atitude (f) do consumidor
+audit (to -)          examinar (livros contábeis), realizar
+                       auditoria
+audit:                auditoria (f)
+ - report             parecer (m) de auditoria
+ internal -           auditoria (f) interna
+ management -         parecer (m) para gerência
+ manpower -           análise (f) de mão-de-obra
+ operations -         avaliação (f) de operações
+auditing:
+ balance sheet -      auditoria (f) de balanço
+auditor               auditor (m)
+authorised capital    capital (m) autorizado
+authority:
+ - structure          estrutura (f) de autoridade
+ contraction of -     diminuição (f) de autoridade
+ line -               autoridade (f) de linha
+automatic data:
+ - processing (ADP)   processamento (m) automático de
+                       dados (PAD)
+automation            automação (f)
+average cost          custo (m) médio
+awareness:
+ brand -              conhecimento (m) de marca
+ cost -               consciência (f) de custos 
+B
+backdate to              antecipar, pré-datar
+bad debt                 dívida (f) duvidosa, dívida (f)
+                          incobrável, empréstimo (m) em
+                          liquidação
+balance:
+ - sheet                 balanço (m) geral
+ debit -                 saldo (m) devedor
+ gross -                 resultado (m) bruto
+ outstanding -           saldo (m) a receber, saldo (m) a pagar
+balance sheet auditing   auditoria (f) de balanço
+bank:
+ - account               conta (f) bancária
+ - deposit               depósito (m) bancário
+ - draft                 saque (m)
+ - overdraft             conta (f) bancária a descoberto
+ - statement             extrato (m) bancário
+ computer -              banco (m) de dados de computador
+ data -                  banco (m) de dados
+ safety -                reserva (/) para imprevistos
+bankers'draft            saque (m) bancário
+bargain                  permuta (f), barganha (f), pechincha (f)
+bargaining:
+ collective -            negociação (f) coletiva
+ plant -                 negociação (f) a nível de fábrica
+ productivity -          negociação (f) de produtividade
+bankruptcy               falência (/), quebra (f) financeira,
+                          bancarrota (f)

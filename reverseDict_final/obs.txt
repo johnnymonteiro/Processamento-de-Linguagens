@@ -1,0 +1,39 @@
+
+
+Parte a suprimir no ficheiro dic-finance-en.pt.txt para que o processamento não trave:
+
+analysis:
+ breakeven -                   análise (f) do ponto de equilíbrio
+ competitor -                  análise (f) da concorrência
+ contribution -                análise (f) de contribuições
+ cost -                        análise (f) de custos
+ cost-benefit - (CBA)          análise (f) de custos e benefícios
+ cost-volume-profit -          análise (f) de custo, volume e lucro
+ critical path - (CPA)         análise (f) do caminho crítico
+ decision -                    análise (f) de decisão
+ depth -                       análise (f) em profundidade
+ financial -                   análise (f) financeira
+ functional -                  análise (f) funcional
+ input-output -                análise (f) de entrada e saída
+ investment -                  análise (f) de investimentos
+ job -                         avaliação (f) de cargo
+ marginal -                    análise (f) marginal
+ media -                       análise (f) de mídia
+ morphological -               análise (f) morfológica
+ needs -                       análise (f) de necessidades
+ network -                     análise (f) de rede
+ problem -                     análise (f) de problemas
+ product -                     análise (f) de produto
+ profit factor -               análise (f) de elementos de lucro
+ profitability -               análise (f) de rentabilidade
+ project -                     análise (f) de projeto
+ regression -                  análise (f) de regressão
+ multiple regression - (MPA)   análise (f) de regressão múltipla
+ risk -                        análise (f) de riscos
+ sales -                       análise (f) de vendas
+ sensitivity -                 análise (/) de sensibilidade
+ sequential -                  análise (f) seqüencial
+ skill-                        análise (f) de habilidades
+ systems -                     análise (f) de sistemas
+ value -                       análise (f) de valores
+ variance -                    análise (f) de variação
